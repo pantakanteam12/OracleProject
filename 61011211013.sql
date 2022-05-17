@@ -1,4 +1,4 @@
------------STOCK MANAGEMENT---------------
+-----------STOCK TRADING COMMISSIONS MANAGEMENT---------------
 -----------CREATE AND INSERT TABLE---------------
 CREATE TABLE LOSE(
 LOSE_ID INT NOT NULL,
